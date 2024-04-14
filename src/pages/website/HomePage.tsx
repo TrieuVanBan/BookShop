@@ -883,14 +883,14 @@ const HomePage = () => {
           </div>
         </div>
       </div>
-      {/*  */}
+      {/* OUR BLOG + TOP BRANDS */}
       <div className="container flex justify-between">
         <div className="flex justify-between w-[48%]">
           <div className="flex flex-col w-[48%] border">
             <img
               src="https://demo.fieldthemes.com/bookshop/demo1/modules/smartblog/images/4-home-default.jpg"
               alt=""
-              className="w-[100%] hover:opacity-[0.7]"
+              className="w-[100%] hover:transition hover:ease-in-out hover:duration-500 hover:opacity-[0.7]"
             />
             <span className="text-[#444] text-[13px] px-5 pt-[15px]">
               Vulputate Cursus
@@ -911,7 +911,7 @@ const HomePage = () => {
             <img
               src="https://demo.fieldthemes.com/bookshop/demo1/modules/smartblog/images/4-home-default.jpg"
               alt=""
-              className="w-[100%] hover:opacity-[0.7]"
+              className="w-[100%] hover:transition hover:ease-in-out hover:duration-500 hover:opacity-[0.7]"
             />
             <span className="text-[#444] text-[13px] px-5 pt-[15px]">
               Vulputate Cursus
