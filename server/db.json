@@ -1,0 +1,140 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "cateId": 1,
+      "image": "https://demo.fieldthemes.com/bookshop/demo1/25-home_default/grateful-and-give.jpg",
+      "name": "ban1",
+      "price": 200,
+      "discount": 100,
+      "quantity": 1,
+      "description": "Maecenas mauris urna, semper nec dignissim vitae, molestie etmagna! Duis pulvinar volutpat euismod."
+    },
+    {
+      "id": "2",
+      "cateId": 2,
+      "image": "https://demo.fieldthemes.com/bookshop/demo1/42-home_default/suspendisse-vel.jpg",
+      "name": "Bạch tuyết và bảy chú lùn",
+      "price": 200,
+      "discount": 100,
+      "quantity": 1,
+      "description": "Maecenas mauris urna, semper nec dignissim vitae, molestie etmagna! Duis pulvinar volutpat euismod."
+    },
+    {
+      "id": "3",
+      "cateId": 3,
+      "image": "https://demo.fieldthemes.com/bookshop/demo1/29-home_default/etiam-auctor.jpg",
+      "name": "Người nam châm",
+      "price": 200,
+      "discount": 100,
+      "quantity": 1,
+      "description": "Maecenas mauris urna, semper nec dignissim vitae, molestie etmagna! Duis pulvinar volutpat euismod."
+    },
+    {
+      "id": "4",
+      "cateId": 1,
+      "image": "https://demo.fieldthemes.com/bookshop/demo1/37-home_default/the-storyteller.jpg",
+      "name": "Chiến Tranh Và Hòa Bình tập 10000",
+      "price": 200,
+      "discount": 100,
+      "quantity": 1,
+      "description": "Maecenas mauris urna, semper nec dignissim vitae, molestie etmagna! Duis pulvinar volutpat euismod."
+    },
+    {
+      "id": "5",
+      "cateId": 2,
+      "image": "https://demo.fieldthemes.com/bookshop/demo1/25-home_default/grateful-and-give.jpg",
+      "name": "ban5",
+      "price": 200,
+      "discount": 100,
+      "quantity": 1,
+      "description": "Maecenas mauris urna, semper nec dignissim vitae, molestie etmagna! Duis pulvinar volutpat euismod."
+    },
+    {
+      "id": "6",
+      "cateId": 1,
+      "image": "https://demo.fieldthemes.com/bookshop/demo1/25-home_default/grateful-and-give.jpg",
+      "name": "ban6",
+      "price": 200,
+      "discount": 100,
+      "quantity": 1,
+      "description": "Maecenas mauris urna, semper nec dignissim vitae, molestie etmagna! Duis pulvinar volutpat euismod."
+    },
+    {
+      "id": "7",
+      "cateId": 2,
+      "image": "https://demo.fieldthemes.com/bookshop/demo1/25-home_default/grateful-and-give.jpg",
+      "name": "ban7",
+      "price": 200,
+      "discount": 100,
+      "quantity": 1,
+      "description": "Maecenas mauris urna, semper nec dignissim vitae, molestie etmagna! Duis pulvinar volutpat euismod."
+    },
+    {
+      "id": "8",
+      "cateId": 3,
+      "image": "https://demo.fieldthemes.com/bookshop/demo1/25-home_default/grateful-and-give.jpg",
+      "name": "101 chú chó đốm",
+      "price": 200,
+      "discount": 100,
+      "quantity": 1,
+      "description": "Maecenas mauris urna, semper nec dignissim vitae, molestie etmagna! Duis pulvinar volutpat euismod."
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "title": "Sách tiểu thuyết"
+    },
+    {
+      "id": "2",
+      "title": "Sách lịch sử"
+    },
+    {
+      "id": "3",
+      "title": "Sách tôn giáo"
+    },
+    {
+      "id": "4",
+      "title": "Sách tâm lý, tình cảm "
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "ban@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "email": "bannshd@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "364a",
+      "email": "ban@gmail.com",
+      "phone": "43243243",
+      "password": "122121"
+    }
+  ],
+  "comments": [
+    {
+      "id": "8846",
+      "email": "Ban Trieu",
+      "comment": "tốtttt",
+      "productId": "6"
+    },
+    {
+      "id": "1a2b",
+      "email": "Ban Trieu",
+      "comment": "Sản phẩm tốt",
+      "productId": "3"
+    },
+    {
+      "id": "7a88",
+      "email": "Ban Trieu",
+      "comment": "Sản phẩm đẹp",
+      "productId": "3"
+    }
+  ]
+}

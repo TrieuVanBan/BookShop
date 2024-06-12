@@ -12,6 +12,12 @@
 input::placeholder {
   color: #fff;
 }
+.desktop-cart input::placeholder {
+  color: gray;
+}
 .mg-auto {
   margin: auto 0;
+}
+.mg-auto1 {
+  margin: 20px auto;
 }

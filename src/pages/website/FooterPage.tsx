@@ -14,7 +14,7 @@ import { RiMapPin2Line } from "react-icons/ri";
 
 const FooterPage = () => {
   return (
-    <div className="bg-[#313131]">
+    <div className="bg-[#313131] mt-[30px]">
       <div className="container flex py-10">
         {/* 1 */}
         <div className="w-[25%]">
@@ -255,7 +255,6 @@ const FooterPage = () => {
           <div className="flex item-center">
             <input
               type="email"
-              name=""
               className="outline-none text-[12px] text-[#fff] bg-[#444] p-2 w-[230px]"
               placeholder="Enter your email address"
             />
